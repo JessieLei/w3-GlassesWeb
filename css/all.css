@@ -198,7 +198,7 @@ header .navBar {
   }
 }
 header .navBar h1 a {
-  background-image: url(./img/logo-white.png);
+  background-image: url(../img/logo-white.png);
   background-size: contain;
   background-repeat: no-repeat;
   width: 80px;
